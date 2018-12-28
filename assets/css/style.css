@@ -1,0 +1,17 @@
+body{
+    margin: 0 auto;
+    width: 900 px;
+    background: url("../images/concrete_seamless.png");
+    font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 900 px;
+    width: 100%;
+    text-align: center;          
+    /* clear: both; */
+    
+}
+
+#
